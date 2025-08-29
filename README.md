@@ -2,6 +2,8 @@
 
 A modern, responsive movie discovery application built with React and Vite. Search through thousands of movies, browse trending titles, and view detailed information with smooth animations and transitions.
 
+https://dulakshirb.github.io/movie-finder/
+
 ## Features
 
 - **Movie Search**: Real-time search with debounced API calls
